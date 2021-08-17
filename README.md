@@ -1,2 +1,2 @@
 # Frases-do-dia
-Aplicativo Frases do Dia.
+Phrases of the Day app.
